@@ -1,0 +1,60 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0
+}
+section{
+  background: #09f;
+  width: 120px;
+  height: 100px;
+  padding-left: 10px;
+  padding-top: 10px;
+  /* border-width: 2px;
+  border-color: red;
+  border-style: solid; */
+  border-top: solid red 5px;
+  border-right: double green 7px;
+  border-bottom: dotted purple 10px;
+  border-left: outset rgb(43, 43, 148) 13px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  overflow: auto;
+  box-shadow: 0 4px 4px grey;
+}
+
+.relativo{
+  background: grey;
+  position: relative;
+  left: 20px;
+  top: 50px;
+  z-index: -100;
+}
+
+.absoluto{
+  position: absolute;
+  right: 5px;
+  bottom: 15px;
+}
+
+.bi-heart-fill{
+  color: red;
+  position: absolute;
+  left: 2px;
+  top: 2px
+}
+
+.bi-whatsapp {
+  color: #25d366;
+  font-size: 32px;
+}
+
+.icono-whatsapp{
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+}
