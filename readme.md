@@ -1,3 +1,9 @@
+# 📦🖼️ Box Model y Posicionamiento en CSS
+
+Este repositorio contiene ejemplos prácticos y teoría sobre el **Box Model** y el **posicionamiento** en CSS. Aquí podrás aprender, experimentar y visualizar cómo funcionan estos conceptos fundamentales para el diseño web moderno. 
+
+Explora el código, modifica los estilos y observa los resultados en tiempo real. Ideal para estudiantes que desean dominar la maquetación y el control de la disposición de los elementos en la web. 🚀✨
+
 # Box Model y Posicionamiento en CSS
 
 ## Box Model (Modelo de Caja)
